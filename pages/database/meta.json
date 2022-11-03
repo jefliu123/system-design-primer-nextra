@@ -1,0 +1,5 @@
+{
+  "rdbms": "RDBMS",
+  "nosql": "NoSQL",
+  "sql-or-nosql": "SQL or NoSQL"
+}

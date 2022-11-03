@@ -1,0 +1,7 @@
+{
+  "communication-overview":  "Overview",
+  "http": "HTTP",
+  "tcp": "TCP",
+  "udp": "UDP",
+  "rpc-and-rest": "RPC and REST"
+}

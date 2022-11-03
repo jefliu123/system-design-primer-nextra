@@ -1,7 +1,20 @@
 {
   "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "performance-vs-scalability": "Performance vs scalability",
+  "latency-vs-throughput": "Latency vs throughput",
+  "availability-vs-consistency": "Availability vs consistency",
+  "consistency-patterns": "Consistency patterns",
+  "availability-patterns": "Availability patterns",
+  "domain-name-system": "Domain name system",
+  
+  "content-delivery-network": "Content delivery network",
+  "load-balancer": "Load balancer",
+  "reverse-proxy": "Reverse proxy",
+  "application-layer": "Application layer",
+  "database": "Database",
+  "cache": "Cache",
+  "asynchronism": "Asynchronism",
+  "communication": "Communication",
+  "security": "Security",
+  "appendix": "Appendix"
 }
